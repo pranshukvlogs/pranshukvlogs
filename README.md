@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pranshukvlogs
+- 👋 Hi, I’m @Pransku Kushwaha
 - 👀 I’m interested in cyber security 
 - 🌱 I’m currently learning kali linux and operating systems.
 - 💞️ I’m looking to collaborate on cyber security analyist and cyber security engineer.
